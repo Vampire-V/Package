@@ -1,5 +1,5 @@
 {
-  "name": "demo-package",
+  "name": "tao-demo-package",
   "version": "1.0.0",
   "description": "demo-package",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "keywords": [
     "demo"
   ],
-  "author": "pipat.p dev",
+  "author": "pipat.p",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Vampire-V/Package/issues"
