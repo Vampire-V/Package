@@ -1,8 +1,11 @@
 {
   "name": "demo-package",
   "version": "1.0.0",
-  "description": "Is demo package",
+  "description": "demo-package",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +14,9 @@
     "url": "git+https://github.com/Vampire-V/Package.git"
   },
   "keywords": [
-    "demo-package"
+    "demo"
   ],
-  "author": "Vampire",
+  "author": "pipat.p dev",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Vampire-V/Package/issues"
