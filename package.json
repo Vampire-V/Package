@@ -1,0 +1,22 @@
+{
+  "name": "demo-package",
+  "version": "1.0.0",
+  "description": "Is demo package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vampire-V/Package.git"
+  },
+  "keywords": [
+    "demo-package"
+  ],
+  "author": "Vampire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vampire-V/Package/issues"
+  },
+  "homepage": "https://github.com/Vampire-V/Package#readme"
+}
